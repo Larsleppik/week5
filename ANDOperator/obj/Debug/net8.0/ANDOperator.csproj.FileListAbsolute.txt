@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\bin\Debug\net8.0\ANDOperator.exe
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\bin\Debug\net8.0\ANDOperator.deps.json
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\bin\Debug\net8.0\ANDOperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\bin\Debug\net8.0\ANDOperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\bin\Debug\net8.0\ANDOperator.pdb
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\refint\ANDOperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.pdb
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ANDOperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\ANDOperator\obj\Debug\net8.0\ref\ANDOperator.dll

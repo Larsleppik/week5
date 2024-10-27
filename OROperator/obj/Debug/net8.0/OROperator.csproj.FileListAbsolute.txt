@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\bin\Debug\net8.0\OROperator.exe
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\bin\Debug\net8.0\OROperator.deps.json
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\bin\Debug\net8.0\OROperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\bin\Debug\net8.0\OROperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\bin\Debug\net8.0\OROperator.pdb
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\refint\OROperator.dll
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.pdb
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\OROperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Week5LogicalOperator\OROperator\obj\Debug\net8.0\ref\OROperator.dll
